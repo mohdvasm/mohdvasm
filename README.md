@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mohammed Vasim 👋</h1>
 <p align="center">
-  <strong>AI Engineer | Voicebot & Chatbot Developer | Python Developer</strong>  
+  <strong>Aspiring AI Research Scientist & Future Entrepreneur | AI Engineering | GenAI Development | Driving Innovation through AI & Data.</strong>  
 </p>
 <p align="center">
   🚀 Turning ideas into intelligent systems | 🧠 Passionate about building with AI
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a self-made engineer who transitioned from a commerce background into the world of Artificial Intelligence. I specialize in building **real-time AI voicebots**, **chatbots**, and **generative systems** that solve practical business problems using modern tools like `LangChain`, `Hugging Face`, `OpenAI`, and `LiveKit`.
+I’m a self-made engineer of Machine Learning & Artificial Intelligence. I specialize in building **real-time AI solutions**, **agentic AI systems**, and **generative AI systems** that solve practical business problems using modern tools like `LangChain`, `LangGraph`, `Hugging Face`, `Large Language Models`.
 
 I believe in learning by doing — from raw microphones to deployed Docker containers — I love building things that speak, listen, and respond.
 
